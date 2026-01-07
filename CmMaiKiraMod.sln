@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cm-mai-resource-fix", "cm-mai-resource-fix.csproj", "{5551AD7A-10D9-448D-AEB5-1578D0936A6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmMaiKiraMod", "CmMaiKiraMod.csproj", "{5551AD7A-10D9-448D-AEB5-1578D0936A6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
